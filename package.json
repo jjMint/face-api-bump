@@ -31,13 +31,13 @@
     "name": "justadudewhohacks"
   },
   "dependencies": {
-    "@tensorflow/tfjs-core": "1.2.9",
+    "@tensorflow/tfjs-core": "^2.0.0",
     "tfjs-image-recognition-base": "^0.6.2",
     "tslib": "^1.10.0"
   },
   "description": "JavaScript API for face detection and face recognition in the browser with tensorflow.js",
   "devDependencies": {
-    "@tensorflow/tfjs-node": "^1.2.9",
+    "@tensorflow/tfjs-node": "^2.0.0",
     "@types/jasmine": "^3.4.0",
     "@types/node": "^12.7.5",
     "canvas": "2.5.0",
